@@ -11,3 +11,5 @@ Este es un proyecto web, donde se desarrollara una tienda, sin nada de funcional
 * css
 * js
 
+# Creado por:
+Juan Pablo García Villa
